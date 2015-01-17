@@ -1,0 +1,17 @@
+{
+  "name": "es-writable",
+  "version": "1.0.0",
+  "description": "ElasticSearch writable stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Po-Ying Chen <poying.me@gmail.com> (陳柏穎)",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^3.1.1"
+  },
+  "devDependencies": {
+    "sima": "^1.0.2"
+  }
+}
